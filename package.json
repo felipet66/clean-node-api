@@ -39,9 +39,10 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "sucrase": "^3.15.0",
     "bcrypt": "^5.0.0",
-    "validator": "^13.1.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fast-glob": "^3.2.4",
+    "sucrase": "^3.15.0",
+    "validator": "^13.1.1"
   }
 }
